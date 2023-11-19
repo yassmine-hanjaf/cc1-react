@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e73dbb5a.css",
+    "main.js": "/static/js/main.9656d499.js",
+    "static/js/787.47cfb777.chunk.js": "/static/js/787.47cfb777.chunk.js",
+    "static/media/united.png": "/static/media/united.ebf9e1c6462742f73219.png",
+    "static/media/espain.png": "/static/media/espain.e0a04d910295d7f5d24e.png",
+    "static/media/france.png": "/static/media/france.c193b1b8f4d4388bac72.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e73dbb5a.css.map": "/static/css/main.e73dbb5a.css.map",
+    "main.9656d499.js.map": "/static/js/main.9656d499.js.map",
+    "787.47cfb777.chunk.js.map": "/static/js/787.47cfb777.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e73dbb5a.css",
+    "static/js/main.9656d499.js"
+  ]
+}
